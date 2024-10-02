@@ -1,0 +1,21 @@
+html{
+    background-color: black;
+}
+h1{    
+    text-transform: uppercase;
+    font-size: xx-large;
+}  
+img{
+    border: 5px solid white;
+    height: 450px;
+    width: 100%;        /*By setting the width of the image to 100 %, it occupys the entire space of the div element */
+} 
+div{
+    text-align: center; /*All the text of the elements present inside the div is aligned to center */
+    color : white;   /*All the text color of the elements present inside the div is changed to white color */
+    margin-left: 25%;
+    width: 50%;
+    margin-top:100px; /*Giving a approximate value to align the div in the center vertically */
+    font-family: "Libre Baskerville", serif; /*All the font family of elements present inside the div is changed to Libre Baskerville */ 
+}  
+
